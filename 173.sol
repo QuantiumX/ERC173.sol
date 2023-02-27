@@ -4,7 +4,7 @@
 
 pragma solidity 0.8.17;
 
-import "../interfaces/IERC173.sol";
+import "./IERC173.sol";
 
 /**
 * @dev Contract module which provides a basic access control mechanism, where
